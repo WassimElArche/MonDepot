@@ -1,3 +1,9 @@
 Bonjour Mehdi
 
+<<<<<<< HEAD
 Au revoir Wassim
+=======
+
+
+Conflit Mehdi
+>>>>>>> 279bb1d4bce4f35b621a0517f813ef9545be268d
